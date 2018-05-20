@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "812394118933",
+    "firebase_url": "https://hygordias-firebase.firebaseio.com",
+    "project_id": "hygordias-firebase",
+    "storage_bucket": "hygordias-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812394118933:android:7488b6cd6a25ef0e",
+        "android_client_info": {
+          "package_name": "br.com.celebrimbor.imagefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812394118933-tcm5vmba97ihorcdp6eb946052lbeek3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.celebrimbor.imagefirebase",
+            "certificate_hash": "881df60796cbe9e832e3292db4bf1a8a64ed3671"
+          }
+        },
+        {
+          "client_id": "812394118933-q3cmpv3et541nd2s8dfek0512hqq9ef3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYbPYjdQJApvYXB1dNzbqDgrYDaGi72Cc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812394118933-q3cmpv3et541nd2s8dfek0512hqq9ef3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812394118933:android:1b1feb40645d7d9b",
+        "android_client_info": {
+          "package_name": "br.com.celebrimbor.testfirecloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812394118933-1681bl08js5n9ip1kpuambe5m419c4iq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.celebrimbor.testfirecloud",
+            "certificate_hash": "881df60796cbe9e832e3292db4bf1a8a64ed3671"
+          }
+        },
+        {
+          "client_id": "812394118933-q3cmpv3et541nd2s8dfek0512hqq9ef3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYbPYjdQJApvYXB1dNzbqDgrYDaGi72Cc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812394118933-q3cmpv3et541nd2s8dfek0512hqq9ef3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
